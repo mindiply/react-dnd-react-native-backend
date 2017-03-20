@@ -1,0 +1,31 @@
+{
+  "name": "react-dnd-react-native-backend",
+  "version": "0.0.1",
+  "description": "React-DND backend for react native applications",
+  "main": "src/ReactNativeBackend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mindiply/react-dnd-react-native-backend.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-dnd"
+  ],
+  "author": "Paolo F. Bongiovanni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mindiply/react-dnd-react-native-backend/issues"
+  },
+  "homepage": "https://github.com/mindiply/react-dnd-react-native-backend#readme",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-native": "^0.42.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.17.1",
+    "eslint-plugin-react": "^6.10.0"
+  }
+}
